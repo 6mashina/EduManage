@@ -37,6 +37,7 @@ This project is an Education Management Application built with Spring Boot, Hibe
 ```bash
 git clone https://github.com/your-repo/eduManage.git
 cd eduManage
+```
 
 ### 2. Configure PostgreSQL Database
 
@@ -72,6 +73,7 @@ INSERT INTO course (name, description, teacher_id) VALUES ('English Literature',
 INSERT INTO course (name, description, teacher_id) VALUES ('Physics 201', 'Advanced Physics', 3);
 INSERT INTO course (name, description, teacher_id) VALUES ('Chemistry 101', 'Basic Chemistry', 4);
 INSERT INTO course (name, description, teacher_id) VALUES ('Biology 101', 'Introduction to Biology', 5);
+```
 
 ### 3. Update the src/main/resources/application.properties file
 
@@ -79,8 +81,10 @@ INSERT INTO course (name, description, teacher_id) VALUES ('Biology 101', 'Intro
 
 ```bash
 mvn clean install
+```
 
 ### 5. Run the app
 
 ```bash
 mvn spring-boot:run
+```
