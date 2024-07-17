@@ -58,7 +58,7 @@ CREATE TABLE course (
     teacher_id INTEGER,
     CONSTRAINT fk_course_teacher
     FOREIGN KEY (teacher_id)
-    REFERENCES Teachers (id)
+    REFERENCES teacher (id)
     ON DELETE CASCADE
 );
 
