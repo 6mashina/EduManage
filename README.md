@@ -25,7 +25,7 @@ This project is an Education Management Application built with Spring Boot, Hibe
   - Linux: Use package manager - `sudo apt install postgresql` (Debian/Ubuntu)
 
 ### 5. Maven
-- **Version:** 4.0.0 
+- **Version:** 3.9.8 
 - **Installation:**
   - Windows: Download from [Maven Downloads](https://maven.apache.org/download.cgi)
   - macOS: Use Homebrew - `brew install maven`
