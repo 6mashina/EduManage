@@ -35,7 +35,7 @@ This project is an Education Management Application built with Spring Boot, Hibe
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-repo/eduManage.git
+git clone https://github.com/6mashina/EduManage.git
 cd eduManage
 ```
 
